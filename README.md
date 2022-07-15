@@ -3,24 +3,18 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/sousa-Diin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousa-Diin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousa-Diin&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div style="display: inline_block"><br>
+  <a href="https://github.com/Nucleo-de-estudo-Nepar">
   
-  <img align="center" alt="Dinho-C" height="30" width="40" src="img/letter-c.png">
-  <img align="center" alt="Dinho-Cpp" height="30" width="40" src="img/c-.png">
 
-  <img align="center" alt="Dinho-Java" height="30" width="40" src="img/java.png">
-  <img align="center" alt="Dinho-MySQL" height="30" width="40" src="img/mysql.png">
+  <img align="center" alt="logo-nodejs" height="30" width="40" src="https://e7.pngegg.com/pngimages/240/632/png-clipart-deploying-node-js-website-development-javascript-web-application-vue-js-text-rectangle-thumbnail.png">
+  <img align="center" alt="logo-MySQL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8UtBKO4vjdEbtVcXi3swfaMIlHiqSkICYQ&usqp=CAU">
   
-  <img align="center" alt="Dinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   
-  <img align="right" alt="foto-minha" height="150" width="150" style="border-radius:50px;" src="img/avatar_suit.png">
+  <img align="right" alt="foto-de-automacao-residencial" height="150" width="150" style="border-radius:50px;" src="https://nucleonepar.com.br/static/media/about.2adab314.png">
  
   
 </div>
